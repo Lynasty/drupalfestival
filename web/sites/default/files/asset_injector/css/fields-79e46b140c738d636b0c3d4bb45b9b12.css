@@ -1,0 +1,10 @@
+.views-field-field-event-name{
+font-weight: bold;
+font-size:16px;
+text-align:center;
+border-bottom : 2px solid #ededed;
+}
+.views-label-field-event-date-start, .views-label-field-event-date-end  {
+  font-weight: bold;
+}
+
